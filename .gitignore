@@ -1,0 +1,9 @@
+/Package/nbproject/private/
+/minghu6_package/nbproject/private/
+/minghu6_py/nbproject/private/
+pipbook-1.0
+__pycache__
+*.ini
+*.zip
+*.pyc
+.idea
